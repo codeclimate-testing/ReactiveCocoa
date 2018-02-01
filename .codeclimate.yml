@@ -8,4 +8,5 @@ plugins:
     channel: swift-beta
 exclude_patterns:
 - "ReactiveCocoaTests/**/*"
+- "ReactiveMapKitTests/**/*"
 - "**/*.js"
